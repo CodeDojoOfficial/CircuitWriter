@@ -1,0 +1,7 @@
+# Vim Swap Files
+*.swp
+*.swo
+*.swa
+
+# C++ Executables
+*.out
